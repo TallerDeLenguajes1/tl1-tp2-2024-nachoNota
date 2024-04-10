@@ -1,1 +1,4 @@
-completar
+Se dejaran de ver los cambios realizados en la rama opcion_2 una vez se haya vuelto a la rama principal, aunque se puede 
+realizar un merge para juntar esta rama secundaria que utilicé para probar distintas cosas, con la rama principal, por lo que,
+en este caso, si podrá ser visible el archivo tp2_1_2.c.
+Respecto al respuestas.txt, veo que el archivo fue guardado dentro de la rama principal, y la otra rama no fue modificada.
